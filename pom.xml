@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>bsr</finalName>
+    <finalName>Devops</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
