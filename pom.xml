@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>addperson</finalName>
+    <finalName>name</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
