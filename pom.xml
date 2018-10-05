@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>details</finalName>
+    <finalName>test</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
