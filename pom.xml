@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>devops1</finalName>
+    <finalName>devops2</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
